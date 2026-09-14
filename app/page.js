@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';import {useEffect,useState} from 'react';import {Shell,BookingForm,RoomCard,GalleryGrid} from './components';import {rooms,offers,gallery} from './data';
 const slides=[
-{eyebrow:'ROYAL BELGIUM HOTEL & SUITES',title:'A refined Brussels stay, made effortless.',text:'Modern comfort, warm hospitality and a direct booking experience designed around the way you travel.',image:'/images/img011-2933x1600.jpeg'},
+{eyebrow:'ROYAL BELGIUM HOTEL & SUITES11',title:'A refined Brussels stay, made effortless.',text:'Modern comfort, warm hospitality and a direct booking experience designed around the way you travel.',image:'/images/img011-2933x1600.jpeg'},
 {eyebrow:'ROOMS & SUITES',title:'Space to slow down and settle in.',text:'Discover elegant rooms and suites with thoughtful details for leisure, business and special city breaks.',image:'/images/img022-2399x1600.jpeg'},
 {eyebrow:'ROYAL BELGIUM HOTEL & SUITES',title:'A refined Brussels stay, made effortless.',text:'Modern comfort, warm hospitality and a direct booking experience designed around the way you travel.',image:'/images/img033-1684x1600.jpeg'},
 {eyebrow:'YOUR BRUSSELS BASE',title:'Stay close to what makes the city special.',text:'Use the hotel as your comfortable starting point for culture, dining, shopping and Belgian discoveries.',image:'/images/img044-1600x1600.jpeg'}];
